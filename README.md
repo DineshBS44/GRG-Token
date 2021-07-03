@@ -1,10 +1,10 @@
 # GRG Token
 
-GRG token is an ERC20 based standard fungible Token which is deployed to the Ethereum public network with a total supply of 1,000,000
+GRG token is an ERC20 based standard fungible Token which is deployed to the Ethereum public network with a total supply of 1,000,000 tokens
 
-## How is the token built?
+## How is the token made?
 
-This token's smart contract is written in solidity with the help of OpenZeppelin librAary and truffle is used to compile and deploy to the Ethereum's public test network called Rinkeby.
+This Token's smart contract is written in solidity with the help of OpenZeppelin library and Truffle is used to compile and deploy to the Ethereum's public test network called Rinkeby.
 
 ## What is the contract address of this token?
 
@@ -12,7 +12,7 @@ The contract address of this token is 0x4284102ef504102df1923cfb47a24e5d63b9b29d
 
 ## How to view more details about the token?
 
-<a href="https://rinkeby.etherscan.io/token/0x4284102ef504102df1923cfb47a24e5d63b9b29d">Click here</a> to know more about the token at rinkeby.etherscan.io
+<a href="https://rinkeby.etherscan.io/token/0x4284102ef504102df1923cfb47a24e5d63b9b29d">Click here</a> to know more about the token at <a href="https://rinkeby.etherscan.io">rinkeby.etherscan.io</a>
 
 ## How to get GRG token?
 
